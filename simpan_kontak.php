@@ -1,5 +1,5 @@
 <?php
-   include "admin/koneksi.inc.php";
+   include "../admin/koneksi.inc.php";
 
     //memindahkan nilai data form ke variabel sederhana agar mudah ditulis
     $vid=$_POST["id"];
